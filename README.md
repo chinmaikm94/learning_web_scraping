@@ -18,3 +18,6 @@ Web scraping tools are software (i.e., bots) programmed to sift through database
 <br>
 <br>
 Web Scraping is actually not illegal on its own but one should be ethical while doing it. If done in a good way, Web Scraping can help us to make the best use of the web, the biggest example of which is Google Search Engine. So, do not give any reason to the target site owner to block or even sue you by any wrongdoings and respect the Terms of Service (ToS) of other sites as well.
+<br>
+<br>
+To get familiar with web scaraping techniques and its output I tried formulating python code for capturing the names of medicine from www.1mg.com website.
